@@ -1,5 +1,6 @@
 # Brain_fMRI_3DMaps
-Novel Algorithm for 3d MAPS analysis in brain fMRI images
+Novel Algorithm for 3d MAPS analysis in brain fMRI images.
+
 Perivascular Spaces (PVS) are 
 fluid filled spaces surrounding the small vessels in the
 brain which in their enlarged forms are visible on Magnetic Resonance Imaging (MRI). The
